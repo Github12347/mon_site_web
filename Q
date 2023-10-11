@@ -1,0 +1,35 @@
+[33mcommit c6eec630f8f3858547b34f595875caac7a978df9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: clone <h.paka@laposte.net>
+Date:   Tue Oct 10 17:12:29 2023 +0200
+
+    #1: ajout du readme
+
+[33mcommit efeb11b00f5b8e6647391dc11a90ae41e03901af[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: PAKA Howard <h.paka@laposte.net>
+Date:   Fri Oct 6 18:10:37 2023 +0200
+
+    ajout d'un gist
+
+[33mcommit 94c70bb0d159fee5d635ebec8f9576cb25bd7dae[m[33m ([m[1;33mtag: MON_SITE_V2[m[33m)[m
+Author: PAKA Howard <h.paka@laposte.net>
+Date:   Fri Oct 6 17:02:00 2023 +0200
+
+    ajout des titres
+
+[33mcommit 8acbddb218c2dee3a9e5230089db0a11729cdce9[m
+Author: PAKA Howard <h.paka@laposte.net>
+Date:   Fri Oct 6 15:10:05 2023 +0200
+
+    Ajout paragraphe de description
+
+[33mcommit 82db7c47fd850ea2d164b0e579d5fc0de22afcc0[m[33m ([m[1;33mtag: MON_SITE_V1[m[33m)[m
+Author: PAKA Howard <h.paka@laposte.net>
+Date:   Fri Oct 6 14:55:44 2023 +0200
+
+    ajout du top banner
+
+[33mcommit 444d1a817c99706a16e2d803b24970e2bf44c9aa[m
+Author: PAKA Howard <h.paka@laposte.net>
+Date:   Fri Oct 6 12:54:07 2023 +0200
+
+    monpremier commit
